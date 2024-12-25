@@ -1,1 +1,10 @@
 __pycache__
+samples
+watercolor
+results*
+precomputed_feats
+output
+models
+sample_collection
+style_collection
+.bashrc
